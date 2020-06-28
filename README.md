@@ -15,7 +15,7 @@ This repository contains:
 The best person to answer that question is the famous "get started with DOTA 2" youtuber Purge. See [this](https://www.youtube.com/watch?v=9Szj-CloJiI) short video to become enlightened! ;)
 
 #### 2. Where do we find those amazing visualisations that we've been promised?
-The tableau project is available on following [link]()
+The tableau project is available on following [link](https://public.tableau.com/profile/mikki.seidenschnur#!/vizhome/data_ber_dota2-analysis/1_Howoftendoeseachteamwin)
 The database overview is here. (There are several more tables in the original dataset, but some has been excluded since they were not necessary):
 ![image](database_overview.png)
 
